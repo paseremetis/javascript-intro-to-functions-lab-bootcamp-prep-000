@@ -25,4 +25,5 @@ function sayHiToGrandma(string)
   else if (string===string.toLowerCase())
   return iCant;
   else if (string===string2);
+  return iLoveYou
 }
