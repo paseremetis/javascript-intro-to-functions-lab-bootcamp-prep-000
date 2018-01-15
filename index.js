@@ -19,8 +19,10 @@ function sayHiToGrandma(string)
   var yesIndeed = "YES INDEED!"
   var iCant = "I can't hear you!"
   var iLoveYou = "I love you, too."
+  var string2 = "I love you."
   if (string===string.toUpperCase())
   return yesIndeed;
-  else (string===string.toLowerCase())
+  else if (string===string.toLowerCase())
   return iCant;
+  else if (string===string2);
 }
